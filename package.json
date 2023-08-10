@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "console-table-printer": "^2.11.2"
+  }
+}
